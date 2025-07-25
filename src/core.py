@@ -1,0 +1,9 @@
+"""Runtime evidence that helps agents trace, profile, and burn """
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
